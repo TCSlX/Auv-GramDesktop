@@ -1,6 +1,6 @@
-# AyuGram
+# AuvGram
 
-![AyuGram Logo](.github/AyuGram.png) ![AyuChan](.github/AyuChan.png)
+![AuvGram Logo](.github/AuvGram.png) ![AuvChan](.github/AuvChan.png)
 
 [ English  |   [Русский](README-RU.md) ]
 
@@ -15,7 +15,7 @@
 - Media preview & quick reaction on force click (macOS)
 - Enhanced appearance
 
-And many more. Check out our [Documentation](https://docs.ayugram.one/desktop/).
+And many more. Check out our [Documentation](https://docs.Auvgram.one/desktop/).
 
 <h3>
   <details>
@@ -33,66 +33,66 @@ And many more. Check out our [Documentation](https://docs.ayugram.one/desktop/).
 
 #### Official
 
-You can download prebuilt Windows binary from [Releases tab](https://github.com/AyuGram/AyuGramDesktop/releases) or from
-the [Telegram channel](https://t.me/AyuGramReleases).
+You can download prebuilt Windows binary from [Releases tab](https://github.com/AuvGram/AuvGramDesktop/releases) or from
+the [Telegram channel](https://t.me/AuvGramReleases).
 
 #### Winget
 
 ```bash
-winget install RadolynLabs.AyuGramDesktop
+winget install RadolynLabs.AuvGramDesktop
 ```
 
 #### Scoop
 
 ```bash
 scoop bucket add extras
-scoop install ayugram
+scoop install Auvgram
 ```
 
 #### Self-built
 
-Follow [official guide](https://github.com/AyuGram/AyuGramDesktop/blob/dev/docs/building-win-x64.md) if you want to
+Follow [official guide](https://github.com/AuvGram/AuvGramDesktop/blob/dev/docs/building-win-x64.md) if you want to
 build by yourself.
 
 ### macOS
 
 #### Official
 
-You can download prebuilt macOS package from [Releases tab](https://github.com/AyuGram/AyuGramDesktop/releases).
+You can download prebuilt macOS package from [Releases tab](https://github.com/AuvGram/AuvGramDesktop/releases).
 
 #### Homebrew
 
 ```bash
-brew install --cask ayugram
+brew install --cask Auvgram
 ```
 
 ### Arch Linux
 
 #### From source (recommended)
 
-Install `ayugram-desktop` from [AUR](https://aur.archlinux.org/packages/ayugram-desktop).
+Install `Auvgram-desktop` from [AUR](https://aur.archlinux.org/packages/Auvgram-desktop).
 
 #### Prebuilt binaries
 
-Install `ayugram-desktop-bin` from [AUR](https://aur.archlinux.org/packages/ayugram-desktop-bin).
+Install `Auvgram-desktop-bin` from [AUR](https://aur.archlinux.org/packages/Auvgram-desktop-bin).
 
 Note: these binaries aren't officially maintained by us.
 
 ### NixOS
 
-See [this repository](https://github.com/ayugram-port/ayugram-desktop) for installation manual.
+See [this repository](https://github.com/Auvgram-port/Auvgram-desktop) for installation manual.
 
 ### ALT Linux
 
-[Sisyphus](https://packages.altlinux.org/en/sisyphus/srpms/ayugram-desktop/)
+[Sisyphus](https://packages.altlinux.org/en/sisyphus/srpms/Auvgram-desktop/)
 
 ### EPM
 
-`epm play ayugram`
+`epm play Auvgram`
 
 ### Any other Linux distro
 
-Follow the [official guide](https://github.com/AyuGram/AyuGramDesktop/blob/dev/docs/building-linux.md).
+Follow the [official guide](https://github.com/AuvGram/AuvGramDesktop/blob/dev/docs/building-linux.md).
 
 ### Remarks for Windows
 
@@ -104,9 +104,9 @@ Make sure you have these components installed with VS Build Tools:
 
 ## Donation
 
-Enjoy using **AyuGram**? Consider sending us a tip!
+Enjoy using **AuvGram**? Consider sending us a tip!
 
-[Here's available methods.](https://docs.ayugram.one/donate/)
+[Here's available methods.](https://docs.Auvgram.one/donate/)
 
 ## Credits
 
